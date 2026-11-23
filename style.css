@@ -8,3 +8,10 @@ body {
     padding: 20px;
     border: solid 2px blue;
 }
+
+#kotak-pesan {
+    height: 150px;
+    background-color: lightyellow;
+    margin: 15px;
+    border: solid 1px red;
+}
